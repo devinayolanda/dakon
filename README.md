@@ -1,5 +1,5 @@
 # dakon
-Dakon is a traditional game from Indonesia known as Congkla/Congklak which is played by 2 people. Implementation using Linked List data structure.
+Dakon is a traditional game from Indonesia known as Congkla/Congklak which is played by 2 people. Implemented using Linked List data structure.
 Built using C++ and SFML library.
 
 How to play :
